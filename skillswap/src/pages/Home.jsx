@@ -1,4 +1,4 @@
-import Navbar from "../components/Navbar";
+import Navbar from "../components/navbar.jsx";
 import Hero from "../components/Hero";
 import HowItWorks from "../components/HowItWorks";
 import PopularSkills from "../components/PopularSkills";
